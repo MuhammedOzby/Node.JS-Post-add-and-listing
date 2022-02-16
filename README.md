@@ -44,10 +44,6 @@ Culpa amet amet sit mollit do ad reprehenderit incididunt veniam consectetur pro
   {
     "title": "POST 2",
     "content": "Occaecat minim enim elit ipsum et quis dolor do nisi commodo commodo.Aute excepteur id dolor tempor.Labore mollit velit magna exercitation cupidatat id commodo labore."
-  },
-  {
-    "title": "POST 3",
-    "content": "Culpa amet amet sit mollit do ad reprehenderit incididunt veniam consectetur proident amet incididunt quis.Excepteur laboris eu dolor culpa eiusmod sit quis duis in ex ullamco velit cupidatat culpa."
   }
 ]
 ```
